@@ -8,6 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@tensorflow/tfjs": "^0.15.3",
+    "tensorflow": "^0.7.0",
     "vue": "^2.6.6",
     "vue-router": "^3.0.1"
   },
